@@ -8,8 +8,7 @@
 #include <iostream>
 using namespace std;
 
-int i;
-int u;
+
 string wordDay [12];
 string giftName [12];
 
